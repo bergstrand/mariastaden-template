@@ -8,7 +8,7 @@ define({
         "id": ""
     },
     "details": {
-        "Title": "",
+        "Title": "Kristian_and_Cleber",
         "Logo": "",
         "Description": ""
     },
